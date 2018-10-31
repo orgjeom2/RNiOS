@@ -1,0 +1,462 @@
+0	22	Alfa Romeo/159	416
+1	27	Alfa Romeo/Giulietta	709
+2	47	Alfa Romeo/MiTo	717
+3	58	Aston Martin/DB9	493
+4	73	Audi/A3	712
+5	74	Audi/A4	723
+6	75	Audi/A5	714
+7	76	Audi/A6	727
+8	77	Audi/A7	707
+9	78	Audi/A8	717
+10	79	Audi/Q3	708
+11	80	Audi/Q5	716
+12	81	Audi/Q7	725
+13	87	Audi/A1	676
+14	89	Audi/A4 allroad	708
+15	90	Audi/A6 allroad	709
+16	94	Audi/Q2	418
+17	96	Audi/R8	701
+18	98	Audi/RS 3	503
+19	100	Audi/RS 5	515
+20	106	Audi/S3	716
+21	107	Audi/S4	414
+22	108	Audi/S5	710
+23	112	Audi/SQ5	545
+24	114	Audi/TT	575
+25	116	Audi/TTS	701
+26	123	Bentley/Continental	716
+27	125	Bentley/Continental GT	463
+28	134	BMW/1 серия	716
+29	135	BMW/3 серия	735
+30	136	BMW/5 серия	735
+31	137	BMW/6 серия	711
+32	138	BMW/7 серия	728
+33	139	BMW/X1	711
+34	140	BMW/X3	722
+35	141	BMW/X4	701
+36	142	BMW/X5	726
+37	143	BMW/X6	716
+38	144	BMW/X6 M	545
+39	147	BMW/2 серия	705
+40	148	BMW/2 серия Active Tourer	703
+41	158	BMW/4 серия	509
+42	168	BMW/i3	701
+43	170	BMW/M2	406
+44	171	BMW/M3	719
+45	172	BMW/M4	707
+46	173	BMW/M5	703
+47	177	BMW/X5 M	444
+48	181	BMW/Z4	716
+49	244	Cadillac/CTS	449
+50	246	Cadillac/Escalade	706
+51	249	Cadillac/SRX	581
+52	273	Chery/Amulet (A15)	701
+53	275	Chery/Fora (A21)	441
+54	276	Chery/IndiS (S18D)	424
+55	279	Chery/Tiggo (T11)	712
+56	293	Chevrolet/Aveo	715
+57	294	Chevrolet/Captiva	711
+58	295	Chevrolet/Cruze	706
+59	296	Chevrolet/Epica	706
+60	297	Chevrolet/Lacetti	711
+61	298	Chevrolet/Lanos	703
+62	299	Chevrolet/Niva	717
+63	300	Chevrolet/Orlando	701
+64	301	Chevrolet/Spark	704
+65	302	Chevrolet/Tahoe	702
+66	303	Chevrolet/TrailBlazer	704
+67	315	Chevrolet/Camaro	469
+68	324	Chevrolet/Cobalt	620
+69	374	Chrysler/300C	682
+70	380	Chrysler/PT Cruiser	453
+71	381	Chrysler/Sebring	402
+72	384	Chrysler/Voyager	549
+73	408	Citroen/Berlingo	709
+74	409	Citroen/C-Crosser	453
+75	411	Citroen/C2	659
+76	412	Citroen/C3	625
+77	413	Citroen/C3 Picasso	717
+78	414	Citroen/C4	720
+79	415	Citroen/C4 Picasso	636
+80	416	Citroen/C5	708
+81	417	Citroen/DS4	702
+82	418	Citroen/Xsara Picasso	708
+83	426	Citroen/C1	716
+84	429	Citroen/C4 Cactus	627
+85	434	Citroen/DS3	710
+86	435	Citroen/DS5	461
+87	457	Dacia/Duster	707
+88	461	Dacia/Sandero	701
+89	466	Daewoo/Gentra	500
+90	471	Daewoo/Matiz	711
+91	472	Daewoo/Nexia	717
+92	544	Datsun/mi-DO	606
+93	545	Datsun/on-DO	704
+94	551	Dodge/Caliber	632
+95	552	Dodge/Caravan	703
+96	559	Dodge/RAM	701
+97	591	DS/3	704
+98	637	FIAT/500	715
+99	638	FIAT/Albea	674
+100	640	FIAT/Bravo	559
+101	641	FIAT/Doblo	711
+102	645	FIAT/Panda	720
+103	646	FIAT/Punto	722
+104	658	FIAT/500L	704
+105	659	FIAT/500X	553
+106	683	FIAT/Tipo	628
+107	688	Ford/C-MAX	704
+108	689	Ford/EcoSport	705
+109	690	Ford/Escape	585
+110	691	Ford/Explorer	713
+111	692	Ford/F-150	677
+112	693	Ford/Fiesta	712
+113	694	Ford/Focus	718
+114	695	Ford/Fusion	704
+115	696	Ford/Kuga	710
+116	697	Ford/Mondeo	730
+117	698	Ford/Mustang	559
+118	711	Ford/Edge	610
+119	733	Ford/Galaxy	550
+120	741	Ford/KA	717
+121	754	Ford/Ranger	714
+122	756	Ford/S-MAX	638
+123	768	Ford/Tourneo Connect	437
+124	782	GAZ (ГАЗ)/3110 «Волга»	710
+125	783	GAZ (ГАЗ)/31105 «Волга»	706
+126	800	Geely/Emgrand EC7	701
+127	806	Geely/MK	501
+128	835	Great Wall/Hover	407
+129	836	Great Wall/Hover H3	704
+130	837	Great Wall/Hover H5	703
+131	871	Honda/Accord	722
+132	872	Honda/Civic	711
+133	874	Honda/CR-V	721
+134	875	Honda/Fit	704
+135	876	Honda/HR-V	543
+136	877	Honda/Jazz	724
+137	880	Honda/Stepwgn	406
+138	881	Honda/Stream	406
+139	910	Honda/Insight	528
+140	956	Hyundai/Accent	706
+141	957	Hyundai/Creta	701
+142	958	Hyundai/Elantra	720
+143	959	Hyundai/Getz	706
+144	960	Hyundai/H-1	717
+145	961	Hyundai/i30	706
+146	962	Hyundai/ix35	708
+147	963	Hyundai/Santa Fe	721
+148	964	Hyundai/Solaris	714
+149	965	Hyundai/Sonata	711
+150	966	Hyundai/Tucson	713
+151	973	Hyundai/Coupe	626
+152	984	Hyundai/i10	716
+153	985	Hyundai/i20	710
+154	987	Hyundai/i40	706
+155	988	Hyundai/IONIQ	513
+156	989	Hyundai/ix20	708
+157	995	Hyundai/Matrix	681
+158	1011	IZ (ИЖ)/2126 «Ода»	464
+159	1015	Infiniti/EX	567
+160	1016	Infiniti/FX	721
+161	1017	Infiniti/G	705
+162	1019	Infiniti/M	705
+163	1020	Infiniti/Q50	664
+164	1022	Infiniti/QX56	670
+165	1024	Infiniti/QX70	688
+166	1029	Infiniti/Q30	593
+167	1066	Jaguar/F-Pace	693
+168	1070	Jaguar/XE	703
+169	1071	Jaguar/XF	709
+170	1073	Jaguar/XJ	719
+171	1074	Jaguar/XK	661
+172	1075	Jaguar/XKR	642
+173	1083	Jeep/Cherokee	702
+174	1086	Jeep/Compass	459
+175	1087	Jeep/Grand Cherokee	725
+176	1091	Jeep/Renegade	703
+177	1092	Jeep/Wrangler	707
+178	1094	KIA/Cee'd	720
+179	1095	KIA/Cerato	719
+180	1096	KIA/Magentis	657
+181	1097	KIA/Mohave (Borrego)	550
+182	1098	KIA/Optima	708
+183	1099	KIA/Picanto	717
+184	1100	KIA/Rio	714
+185	1101	KIA/Sorento	720
+186	1102	KIA/Soul	713
+187	1103	KIA/Spectra	703
+188	1104	KIA/Sportage	714
+189	1108	KIA/Carens	588
+190	1140	KIA/Venga	701
+191	1199	Land Rover/Discovery	718
+192	1200	Land Rover/Discovery Sport	681
+193	1201	Land Rover/Freelander	716
+194	1202	Land Rover/Range Rover	715
+195	1203	Land Rover/Range Rover Evoque	711
+196	1204	Land Rover/Range Rover Sport	724
+197	1205	Land Rover/Range Rover Velar	668
+198	1209	Lexus/CT	706
+199	1210	Lexus/ES	707
+200	1211	Lexus/GS	713
+201	1212	Lexus/GX	702
+202	1213	Lexus/IS	705
+203	1214	Lexus/LS	651
+204	1215	Lexus/LX	711
+205	1216	Lexus/NX	707
+206	1218	Lexus/RX	727
+207	1231	Lifan/Smily	483
+208	1232	Lifan/Solano	706
+209	1233	Lifan/X50	558
+210	1234	Lifan/X60	709
+211	1279	Maserati/Ghibli	447
+212	1296	MAZDA/3	715
+213	1298	MAZDA/6	715
+214	1300	MAZDA/CX-5	710
+215	1301	MAZDA/CX-7	705
+216	1303	MAZDA/Demio	702
+217	1304	MAZDA/Familia	485
+218	1305	MAZDA/MPV	449
+219	1310	MAZDA/2	704
+220	1312	MAZDA/5	705
+221	1379	Mercedes-Benz/C-klasse	723
+222	1380	Mercedes-Benz/E-klasse	724
+223	1381	Mercedes-Benz/GL-klasse	710
+224	1382	Mercedes-Benz/GLA-klasse	705
+225	1383	Mercedes-Benz/GLC	703
+226	1384	Mercedes-Benz/GLE	704
+227	1385	Mercedes-Benz/GLK-klasse	713
+228	1386	Mercedes-Benz/GLS-klasse	701
+229	1387	Mercedes-Benz/M-klasse	728
+230	1388	Mercedes-Benz/S-klasse	736
+231	1389	Mercedes-Benz/Vito	724
+232	1392	Mercedes-Benz/A-klasse	724
+233	1395	Mercedes-Benz/B-klasse	707
+234	1398	Mercedes-Benz/CL-klasse	484
+235	1400	Mercedes-Benz/CLA-klasse	703
+236	1402	Mercedes-Benz/CLC-klasse	702
+237	1403	Mercedes-Benz/CLK-klasse	496
+238	1405	Mercedes-Benz/CLS-klasse	716
+239	1408	Mercedes-Benz/G-klasse	723
+240	1409	Mercedes-Benz/G-klasse AMG	706
+241	1414	Mercedes-Benz/GLC Coupe	581
+242	1417	Mercedes-Benz/GLE Coupe	701
+243	1424	Mercedes-Benz/S-klasse AMG	509
+244	1425	Mercedes-Benz/SL-klasse	706
+245	1433	Mercedes-Benz/V-klasse	528
+246	1435	Mercedes-Benz/Viano	667
+247	1489	MINI/Clubman	704
+248	1490	MINI/Countryman	676
+249	1491	MINI/Coupe	616
+250	1492	MINI/Hatch	718
+251	1493	MINI/Paceman	701
+252	1494	MINI/Roadster	606
+253	1495	Mitsubishi/ASX	708
+254	1496	Mitsubishi/Carisma	660
+255	1497	Mitsubishi/Colt	703
+256	1499	Mitsubishi/Galant	714
+257	1500	Mitsubishi/L200	710
+258	1501	Mitsubishi/Lancer	718
+259	1503	Mitsubishi/Outlander	714
+260	1504	Mitsubishi/Pajero	718
+261	1505	Mitsubishi/Pajero Sport	721
+262	1549	Mitsubishi/Mirage	655
+263	1619	Nissan/Almera	717
+264	1620	Nissan/Almera Classic	707
+265	1621	Nissan/Juke	709
+266	1622	Nissan/Murano	711
+267	1623	Nissan/Note	710
+268	1624	Nissan/Primera	711
+269	1625	Nissan/Qashqai	713
+270	1626	Nissan/Teana	711
+271	1627	Nissan/Terrano	705
+272	1628	Nissan/Tiida	709
+273	1629	Nissan/X-Trail	720
+274	1655	Nissan/Cube	521
+275	1659	Nissan/Elgrand	483
+276	1676	Nissan/Leaf	701
+277	1682	Nissan/March	518
+278	1683	Nissan/Maxima	701
+279	1684	Nissan/Micra	707
+280	1687	Nissan/Navara (Frontier)	587
+281	1695	Nissan/Pathfinder	715
+282	1696	Nissan/Patrol	713
+283	1704	Nissan/Pulsar	647
+284	1705	Nissan/Qashqai+2	600
+285	1713	Nissan/Serena	537
+286	1719	Nissan/Sunny	466
+287	1731	Opel/Antara	711
+288	1732	Opel/Astra	717
+289	1733	Opel/Corsa	709
+290	1735	Opel/Insignia	708
+291	1737	Opel/Meriva	703
+292	1738	Opel/Mokka	702
+293	1740	Opel/Vectra	710
+294	1741	Opel/Zafira	717
+295	1780	Peugeot/107	710
+296	1781	Peugeot/206	709
+297	1782	Peugeot/207	705
+298	1783	Peugeot/3008	702
+299	1784	Peugeot/307	705
+300	1785	Peugeot/308	706
+301	1786	Peugeot/4007	524
+302	1787	Peugeot/406	407
+303	1788	Peugeot/407	687
+304	1789	Peugeot/408	703
+305	1790	Peugeot/Partner	707
+306	1794	Peugeot/108	701
+307	1795	Peugeot/2008	707
+308	1802	Peugeot/208	707
+309	1815	Peugeot/5008	710
+310	1818	Peugeot/508	701
+311	1827	Peugeot/RCZ	701
+312	1874	Porsche/911	719
+313	1878	Porsche/Boxster	701
+314	1879	Porsche/Cayenne	724
+315	1880	Porsche/Cayman	703
+316	1881	Porsche/Macan	704
+317	1882	Porsche/Panamera	710
+318	1899	Renault/Duster	709
+319	1900	Renault/Fluence	709
+320	1901	Renault/Kangoo	714
+321	1902	Renault/Kaptur	702
+322	1903	Renault/Koleos	706
+323	1904	Renault/Laguna	701
+324	1905	Renault/Logan	719
+325	1906	Renault/Megane	716
+326	1907	Renault/Sandero	714
+327	1908	Renault/Scenic	715
+328	1909	Renault/Symbol	706
+329	1932	Renault/Clio	727
+330	1941	Renault/Kadjar	702
+331	1953	Renault/Twingo	703
+332	1958	Renault/ZOE	505
+333	1979	Rover/75	481
+334	1991	Saab/9-3	601
+335	2012	Seat/Alhambra	648
+336	2013	Seat/Altea	707
+337	2018	Seat/Ibiza	655
+338	2019	Seat/Leon	714
+339	2021	Seat/Toledo	466
+340	2022	Seat/Ateca	491
+341	2027	Seat/Mii	701
+342	2031	Skoda/Fabia	714
+343	2035	Skoda/Kodiaq	569
+344	2036	Skoda/Octavia	717
+345	2038	Skoda/Rapid	706
+346	2039	Skoda/Roomster	711
+347	2040	Skoda/Superb	723
+348	2041	Skoda/Yeti	710
+349	2045	Skoda/Citigo	701
+350	2049	smart/Forfour	668
+351	2050	smart/Fortwo	717
+352	2052	SsangYong/Actyon	704
+353	2053	SsangYong/Actyon Sports	535
+354	2056	SsangYong/Kyron	712
+355	2058	SsangYong/Rexton	709
+356	2069	Subaru/Forester	731
+357	2070	Subaru/Impreza	714
+358	2071	Subaru/Impreza WRX	434
+359	2073	Subaru/Legacy	717
+360	2074	Subaru/Outback	716
+361	2078	Subaru/Tribeca	419
+362	2079	Subaru/XV	618
+363	2109	Suzuki/Alto	709
+364	2110	Suzuki/Baleno	480
+365	2112	Suzuki/Grand Vitara	713
+366	2113	Suzuki/Ignis	702
+367	2114	Suzuki/Jimny	517
+368	2115	Suzuki/Liana	535
+369	2116	Suzuki/Swift	633
+370	2117	Suzuki/SX4	714
+371	2118	Suzuki/Vitara	704
+372	2126	Suzuki/Celerio	645
+373	2144	Suzuki/Splash	530
+374	2161	Toyota/Auris	702
+375	2162	Toyota/Avensis	712
+376	2163	Toyota/Camry	715
+377	2164	Toyota/Corolla	716
+378	2165	Toyota/Highlander	704
+379	2166	Toyota/Hilux	703
+380	2167	Toyota/Land Cruiser	718
+381	2168	Toyota/Land Cruiser Prado	727
+382	2169	Toyota/Mark II	582
+383	2170	Toyota/RAV 4	718
+384	2171	Toyota/Tundra	703
+385	2176	Toyota/Alphard	491
+386	2184	Toyota/Aygo	703
+387	2198	Toyota/Celica	565
+388	2206	Toyota/Corolla Verso	691
+389	2227	Toyota/GT86	466
+390	2228	Toyota/Harrier	418
+391	2233	Toyota/iQ	542
+392	2261	Toyota/Prius	708
+393	2299	Toyota/Venza	505
+394	2301	Toyota/Verso	712
+395	2305	Toyota/Vitz	689
+396	2312	Toyota/Yaris	693
+397	2330	UAZ (УАЗ)/3151	488
+398	2336	UAZ (УАЗ)/Hunter	713
+399	2337	UAZ (УАЗ)/Patriot	721
+400	2338	UAZ (УАЗ)/Pickup	536
+401	2339	Vauxhall/Adam	706
+402	2340	Vauxhall/Astra	719
+403	2346	Vauxhall/Vectra	703
+404	2350	Vauxhall/Viva	703
+405	2352	LADA (ВАЗ)/2107	714
+406	2353	LADA (ВАЗ)/2109	715
+407	2354	LADA (ВАЗ)/2110	717
+408	2355	LADA (ВАЗ)/2112	709
+409	2356	LADA (ВАЗ)/2114	718
+410	2357	LADA (ВАЗ)/2115	714
+411	2358	LADA (ВАЗ)/2121 (4x4)	728
+412	2359	LADA (ВАЗ)/Granta	708
+413	2360	LADA (ВАЗ)/Kalina	715
+414	2361	LADA (ВАЗ)/Priora	716
+415	2362	LADA (ВАЗ)/Vesta	703
+416	2363	LADA (ВАЗ)/1111 Ока	705
+417	2367	LADA (ВАЗ)/2104	719
+418	2368	LADA (ВАЗ)/2105	710
+419	2369	LADA (ВАЗ)/2106	496
+420	2370	LADA (ВАЗ)/2108	429
+421	2371	LADA (ВАЗ)/21099	708
+422	2372	LADA (ВАЗ)/2111	711
+423	2373	LADA (ВАЗ)/2113	709
+424	2377	LADA (ВАЗ)/2131 (4x4)	724
+425	2381	LADA (ВАЗ)/Largus	707
+426	2383	LADA (ВАЗ)/XRAY	703
+427	2384	Volkswagen/Caddy	710
+428	2385	Volkswagen/Caravelle	717
+429	2386	Volkswagen/Golf	723
+430	2387	Volkswagen/Jetta	720
+431	2388	Volkswagen/Multivan	717
+432	2389	Volkswagen/Passat	734
+433	2390	Volkswagen/Passat CC	709
+434	2391	Volkswagen/Polo	711
+435	2392	Volkswagen/Tiguan	715
+436	2393	Volkswagen/Touareg	724
+437	2394	Volkswagen/Transporter	719
+438	2396	Volkswagen/Amarok	703
+439	2398	Volkswagen/Beetle	714
+440	2399	Volkswagen/Bora	703
+441	2403	Volkswagen/Eos	702
+442	2408	Volkswagen/Golf Plus	706
+443	2426	Volkswagen/Scirocco	670
+444	2428	Volkswagen/Sharan	412
+445	2432	Volkswagen/Touran	705
+446	2441	Volvo/C30	705
+447	2442	Volvo/S40	704
+448	2443	Volvo/S60	713
+449	2444	Volvo/S80	712
+450	2448	Volvo/XC60	712
+451	2449	Volvo/XC70	710
+452	2450	Volvo/XC90	725
+453	2466	Volvo/C70	496
+454	2472	Volvo/V40	706
+455	2473	Volvo/V50	707
+456	2474	Volvo/V60	701
+457	2476	Volvo/V70	709
+458	2481	Vortex/Tingo	681
+459	2488	ZAZ (ЗАЗ)/Chance	703
+460	2743	Renault/CAPTUR	707
+461	2744	Vauxhall/Corsa	715

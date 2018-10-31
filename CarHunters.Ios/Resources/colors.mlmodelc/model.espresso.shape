@@ -1,0 +1,118 @@
+{
+  "layer_shapes" : {
+    "activation_3\/Relu:0" : {
+      "k" : 12,
+      "w" : 64,
+      "n" : 1,
+      "h" : 64
+    },
+    "max_pooling2d_4\/MaxPool:0" : {
+      "k" : 24,
+      "w" : 16,
+      "n" : 1,
+      "h" : 16
+    },
+    "dense_1\/BiasAdd:0" : {
+      "k" : 16,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "max_pooling2d_2\/MaxPool:0" : {
+      "k" : 6,
+      "w" : 64,
+      "n" : 1,
+      "h" : 64
+    },
+    "dense_1__Softmax__0" : {
+      "k" : 16,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "activation_1\/Relu:0" : {
+      "k" : 3,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "max_pooling2d_7\/MaxPool:0" : {
+      "k" : 192,
+      "w" : 2,
+      "n" : 1,
+      "h" : 2
+    },
+    "activation_7\/Relu:0" : {
+      "k" : 192,
+      "w" : 4,
+      "n" : 1,
+      "h" : 4
+    },
+    "max_pooling2d_5\/MaxPool:0" : {
+      "k" : 48,
+      "w" : 8,
+      "n" : 1,
+      "h" : 8
+    },
+    "activation_4\/Relu:0" : {
+      "k" : 24,
+      "w" : 32,
+      "n" : 1,
+      "h" : 32
+    },
+    "max_pooling2d_3\/MaxPool:0" : {
+      "k" : 12,
+      "w" : 32,
+      "n" : 1,
+      "h" : 32
+    },
+    "activation_8\/Relu:0" : {
+      "k" : 384,
+      "w" : 2,
+      "n" : 1,
+      "h" : 2
+    },
+    "input_1__0" : {
+      "k" : 3,
+      "w" : 256,
+      "n" : 1,
+      "h" : 256
+    },
+    "max_pooling2d_1\/MaxPool:0" : {
+      "k" : 3,
+      "w" : 128,
+      "n" : 1,
+      "h" : 128
+    },
+    "activation_2\/Relu:0" : {
+      "k" : 6,
+      "w" : 128,
+      "n" : 1,
+      "h" : 128
+    },
+    "activation_5\/Relu:0" : {
+      "k" : 48,
+      "w" : 16,
+      "n" : 1,
+      "h" : 16
+    },
+    "max_pooling2d_6\/MaxPool:0" : {
+      "k" : 96,
+      "w" : 4,
+      "n" : 1,
+      "h" : 4
+    },
+    "activation_6\/Relu:0" : {
+      "k" : 96,
+      "w" : 8,
+      "n" : 1,
+      "h" : 8
+    },
+    "max_pooling2d_8\/MaxPool:0" : {
+      "k" : 384,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    }
+  }
+}

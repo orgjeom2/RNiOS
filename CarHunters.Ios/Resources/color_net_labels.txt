@@ -1,0 +1,16 @@
+63	Beige
+65	White
+71	Light Blue
+69	Yellow
+66	Green
+64	Goldish
+74	Brown
+67	Red
+76	Orange
+73	Purple
+78	Pink
+77	Silver
+68	Gray
+72	Blue
+75	Violet
+70	Black

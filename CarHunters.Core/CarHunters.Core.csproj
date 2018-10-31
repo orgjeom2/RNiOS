@@ -1,0 +1,56 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="PlatformAbstractions\Common\**" />
+    <EmbeddedResource Remove="PlatformAbstractions\Common\**" />
+    <None Remove="PlatformAbstractions\Common\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MvvmCross" Version="6.2.0" />
+    <PackageReference Include="MvvmCross.Plugin.File" Version="6.2.0" />
+    <PackageReference Include="MvvmCross.Plugin.Messenger" Version="6.2.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+    <PackageReference Include="Plugin.Permissions" Version="3.0.0.12" />
+    <PackageReference Include="Xam.Plugin.Connectivity" Version="3.2.0" />
+    <PackageReference Include="Grpc" Version="1.15.0" />
+    <PackageReference Include="Grpc.Tools" Version="1.15.0" />
+    <PackageReference Include="Grpc.Core" Version="1.15.0" />
+    <PackageReference Include="Google.Protobuf" Version="3.6.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="PlatformAbstractions\" />
+    <Folder Include="Resources\" />
+    <Folder Include="Units\" />
+    <Folder Include="Units\Authorization\" />
+    <Folder Include="Units\Authorization\GrpcServices\" />
+    <Folder Include="Units\Authorization\Models\" />
+    <Folder Include="Units\Authorization\Services\" />
+    <Folder Include="Units\Authorization\Services\Abstractions\" />
+    <Folder Include="Units\Authorization\Services\Services\" />
+    <Folder Include="Units\Network\" />
+    <Folder Include="Units\Network\Services\" />
+    <Folder Include="Units\Network\Services\Abstractions\" />
+    <Folder Include="Units\Network\Services\Services\" />
+    <Folder Include="Units\Authorization\API\" />
+    <Folder Include="Units\Authorization\API\Abstractions\" />
+    <Folder Include="Units\Authorization\API\Services\" />
+    <Folder Include="Common\Models\Messages\" />
+    <Folder Include="Common\Converters\" />
+    <Folder Include="Units\ML\" />
+    <Folder Include="Units\ML\Services\" />
+    <Folder Include="Units\ML\Services\Abstractions\" />
+    <Folder Include="Units\ML\Services\Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Remove="Resources\Resources.resx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Resources.resx" />
+  </ItemGroup>
+</Project>

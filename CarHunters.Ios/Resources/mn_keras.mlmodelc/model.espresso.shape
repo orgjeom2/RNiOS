@@ -1,0 +1,1030 @@
+{
+  "layer_shapes" : {
+    "block_2_expand_relu_output" : {
+      "k" : 144,
+      "w" : 40,
+      "n" : 1,
+      "h" : 40
+    },
+    "block_2_depthwise_relu_output_relu_neg" : {
+      "k" : 144,
+      "w" : 40,
+      "n" : 1,
+      "h" : 40
+    },
+    "block_5_depthwise_relu_output_relu_neg" : {
+      "k" : 144,
+      "w" : 20,
+      "n" : 1,
+      "h" : 20
+    },
+    "block_4_expand_relu_output" : {
+      "k" : 144,
+      "w" : 20,
+      "n" : 1,
+      "h" : 20
+    },
+    "block_3_depthwise_relu_output" : {
+      "k" : 144,
+      "w" : 20,
+      "n" : 1,
+      "h" : 20
+    },
+    "block_9_expand_relu_output_relu_neg" : {
+      "k" : 288,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_16_expand_relu_output_relu" : {
+      "k" : 720,
+      "w" : 5,
+      "n" : 1,
+      "h" : 5
+    },
+    "block_15_expand_relu_output_relu_neg" : {
+      "k" : 720,
+      "w" : 5,
+      "n" : 1,
+      "h" : 5
+    },
+    "block_8_depthwise_relu_output" : {
+      "k" : 288,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_8_expand_relu_output_relu_clip" : {
+      "k" : 288,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_14_depthwise_relu_output" : {
+      "k" : 720,
+      "w" : 5,
+      "n" : 1,
+      "h" : 5
+    },
+    "block_3_expand_relu_output_relu_neg" : {
+      "k" : 144,
+      "w" : 40,
+      "n" : 1,
+      "h" : 40
+    },
+    "block_11_depthwise_relu_output_relu" : {
+      "k" : 432,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_5_expand_relu_output_relu_clip" : {
+      "k" : 144,
+      "w" : 20,
+      "n" : 1,
+      "h" : 20
+    },
+    "block_5_depthwise_relu_output" : {
+      "k" : 144,
+      "w" : 20,
+      "n" : 1,
+      "h" : 20
+    },
+    "block_5_depthwise_relu_output_relu" : {
+      "k" : 144,
+      "w" : 20,
+      "n" : 1,
+      "h" : 20
+    },
+    "block_4_expand_relu_output_relu" : {
+      "k" : 144,
+      "w" : 20,
+      "n" : 1,
+      "h" : 20
+    },
+    "block_11_add_output" : {
+      "k" : 72,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_4_project_BN_output" : {
+      "k" : 24,
+      "w" : 20,
+      "n" : 1,
+      "h" : 20
+    },
+    "out_relu_output" : {
+      "k" : 1280,
+      "w" : 5,
+      "n" : 1,
+      "h" : 5
+    },
+    "block_8_project_BN_output" : {
+      "k" : 48,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_12_add_output" : {
+      "k" : 72,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_11_expand_relu_output_relu_neg" : {
+      "k" : 432,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_13_depthwise_relu_output" : {
+      "k" : 432,
+      "w" : 5,
+      "n" : 1,
+      "h" : 5
+    },
+    "block_15_depthwise_relu_output_relu" : {
+      "k" : 720,
+      "w" : 5,
+      "n" : 1,
+      "h" : 5
+    },
+    "block_8_depthwise_relu_output_relu_clip" : {
+      "k" : 288,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_6_depthwise_relu_output_relu" : {
+      "k" : 144,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_4_expand_relu_output_relu_clip" : {
+      "k" : 144,
+      "w" : 20,
+      "n" : 1,
+      "h" : 20
+    },
+    "block_14_add_output" : {
+      "k" : 120,
+      "w" : 5,
+      "n" : 1,
+      "h" : 5
+    },
+    "block_6_depthwise_relu_output_relu_clip" : {
+      "k" : 144,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_10_depthwise_relu_output_relu_neg" : {
+      "k" : 288,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_4_depthwise_relu_output_relu_clip" : {
+      "k" : 144,
+      "w" : 20,
+      "n" : 1,
+      "h" : 20
+    },
+    "block_15_add_output" : {
+      "k" : 120,
+      "w" : 5,
+      "n" : 1,
+      "h" : 5
+    },
+    "block_12_depthwise_relu_output_relu_neg" : {
+      "k" : 432,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_8_expand_relu_output_relu" : {
+      "k" : 288,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_1_expand_relu_output_relu_clip" : {
+      "k" : 96,
+      "w" : 80,
+      "n" : 1,
+      "h" : 80
+    },
+    "block_7_depthwise_relu_output_relu" : {
+      "k" : 288,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_12_depthwise_relu_output" : {
+      "k" : 432,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_14_depthwise_relu_output_relu_neg" : {
+      "k" : 720,
+      "w" : 5,
+      "n" : 1,
+      "h" : 5
+    },
+    "block_1_expand_relu_output" : {
+      "k" : 96,
+      "w" : 80,
+      "n" : 1,
+      "h" : 80
+    },
+    "out_relu_output_relu" : {
+      "k" : 1280,
+      "w" : 5,
+      "n" : 1,
+      "h" : 5
+    },
+    "block_16_depthwise_relu_output_relu_neg" : {
+      "k" : 720,
+      "w" : 5,
+      "n" : 1,
+      "h" : 5
+    },
+    "block_8_depthwise_relu_output_relu" : {
+      "k" : 288,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_8_expand_relu_output_relu_neg" : {
+      "k" : 288,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_9_add_output" : {
+      "k" : 48,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_2_expand_relu_output_relu_neg" : {
+      "k" : 144,
+      "w" : 40,
+      "n" : 1,
+      "h" : 40
+    },
+    "block_7_add_output" : {
+      "k" : 48,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_16_expand_relu_output" : {
+      "k" : 720,
+      "w" : 5,
+      "n" : 1,
+      "h" : 5
+    },
+    "expanded_conv_depthwise_relu_output_relu_neg" : {
+      "k" : 24,
+      "w" : 80,
+      "n" : 1,
+      "h" : 80
+    },
+    "expanded_conv_depthwise_relu_output_relu_clip" : {
+      "k" : 24,
+      "w" : 80,
+      "n" : 1,
+      "h" : 80
+    },
+    "block_5_add_output" : {
+      "k" : 24,
+      "w" : 20,
+      "n" : 1,
+      "h" : 20
+    },
+    "block_11_expand_relu_output_relu" : {
+      "k" : 432,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_12_expand_relu_output_relu" : {
+      "k" : 432,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_15_expand_relu_output" : {
+      "k" : 720,
+      "w" : 5,
+      "n" : 1,
+      "h" : 5
+    },
+    "block_11_depthwise_relu_output_relu_neg" : {
+      "k" : 432,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_10_expand_relu_output" : {
+      "k" : 288,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_12_expand_relu_output_relu_neg" : {
+      "k" : 432,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_13_depthwise_relu_output_relu_neg" : {
+      "k" : 432,
+      "w" : 5,
+      "n" : 1,
+      "h" : 5
+    },
+    "block_2_depthwise_relu_output_relu" : {
+      "k" : 144,
+      "w" : 40,
+      "n" : 1,
+      "h" : 40
+    },
+    "block_10_depthwise_relu_output_relu_clip" : {
+      "k" : 288,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_2_expand_relu_output_relu" : {
+      "k" : 144,
+      "w" : 40,
+      "n" : 1,
+      "h" : 40
+    },
+    "block_9_expand_relu_output_relu_clip" : {
+      "k" : 288,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_7_expand_relu_output_relu_neg" : {
+      "k" : 288,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_1_expand_relu_output_relu" : {
+      "k" : 96,
+      "w" : 80,
+      "n" : 1,
+      "h" : 80
+    },
+    "block_3_depthwise_relu_output_relu" : {
+      "k" : 144,
+      "w" : 20,
+      "n" : 1,
+      "h" : 20
+    },
+    "global_average_pooling2d_1_output" : {
+      "k" : 1280,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "Conv1_relu_output_relu_neg" : {
+      "k" : 24,
+      "w" : 80,
+      "n" : 1,
+      "h" : 80
+    },
+    "block_13_depthwise_relu_output_relu_clip" : {
+      "k" : 432,
+      "w" : 5,
+      "n" : 1,
+      "h" : 5
+    },
+    "block_6_expand_relu_output_relu_clip" : {
+      "k" : 144,
+      "w" : 20,
+      "n" : 1,
+      "h" : 20
+    },
+    "block_8_depthwise_relu_output_relu_neg" : {
+      "k" : 288,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_14_expand_relu_output_relu_clip" : {
+      "k" : 720,
+      "w" : 5,
+      "n" : 1,
+      "h" : 5
+    },
+    "block_1_expand_relu_output_relu_neg" : {
+      "k" : 96,
+      "w" : 80,
+      "n" : 1,
+      "h" : 80
+    },
+    "expanded_conv_depthwise_relu_output_relu" : {
+      "k" : 24,
+      "w" : 80,
+      "n" : 1,
+      "h" : 80
+    },
+    "block_6_project_BN_output" : {
+      "k" : 48,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_4_depthwise_relu_output_relu" : {
+      "k" : 144,
+      "w" : 20,
+      "n" : 1,
+      "h" : 20
+    },
+    "block_16_project_BN_output" : {
+      "k" : 240,
+      "w" : 5,
+      "n" : 1,
+      "h" : 5
+    },
+    "Logits_output" : {
+      "k" : 1000,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "block_16_depthwise_relu_output_relu_clip" : {
+      "k" : 720,
+      "w" : 5,
+      "n" : 1,
+      "h" : 5
+    },
+    "block_7_depthwise_relu_output_relu_clip" : {
+      "k" : 288,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_3_project_BN_output" : {
+      "k" : 24,
+      "w" : 20,
+      "n" : 1,
+      "h" : 20
+    },
+    "block_13_project_BN_output" : {
+      "k" : 120,
+      "w" : 5,
+      "n" : 1,
+      "h" : 5
+    },
+    "block_7_project_BN_output" : {
+      "k" : 48,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_5_depthwise_relu_output_relu_clip" : {
+      "k" : 144,
+      "w" : 20,
+      "n" : 1,
+      "h" : 20
+    },
+    "expanded_conv_depthwise_relu_output" : {
+      "k" : 24,
+      "w" : 80,
+      "n" : 1,
+      "h" : 80
+    },
+    "block_5_expand_relu_output_relu" : {
+      "k" : 144,
+      "w" : 20,
+      "n" : 1,
+      "h" : 20
+    },
+    "block_3_depthwise_relu_output_relu_clip" : {
+      "k" : 144,
+      "w" : 20,
+      "n" : 1,
+      "h" : 20
+    },
+    "block_10_project_BN_output" : {
+      "k" : 72,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_1_depthwise_relu_output_relu_clip" : {
+      "k" : 96,
+      "w" : 40,
+      "n" : 1,
+      "h" : 40
+    },
+    "block_2_expand_relu_output_relu_clip" : {
+      "k" : 144,
+      "w" : 40,
+      "n" : 1,
+      "h" : 40
+    },
+    "input" : {
+      "k" : 3,
+      "w" : 160,
+      "n" : 1,
+      "h" : 160
+    },
+    "block_2_depthwise_relu_output" : {
+      "k" : 144,
+      "w" : 40,
+      "n" : 1,
+      "h" : 40
+    },
+    "block_9_expand_relu_output_relu" : {
+      "k" : 288,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_10_expand_relu_output_relu_clip" : {
+      "k" : 288,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_14_depthwise_relu_output_relu_clip" : {
+      "k" : 720,
+      "w" : 5,
+      "n" : 1,
+      "h" : 5
+    },
+    "block_9_expand_relu_output" : {
+      "k" : 288,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_7_depthwise_relu_output" : {
+      "k" : 288,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_6_expand_relu_output_relu_neg" : {
+      "k" : 144,
+      "w" : 20,
+      "n" : 1,
+      "h" : 20
+    },
+    "block_4_depthwise_relu_output" : {
+      "k" : 144,
+      "w" : 20,
+      "n" : 1,
+      "h" : 20
+    },
+    "block_15_project_BN_output" : {
+      "k" : 120,
+      "w" : 5,
+      "n" : 1,
+      "h" : 5
+    },
+    "block_12_project_BN_output" : {
+      "k" : 72,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_13_expand_relu_output_relu_neg" : {
+      "k" : 432,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_9_depthwise_relu_output" : {
+      "k" : 288,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_11_depthwise_relu_output" : {
+      "k" : 432,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_1_depthwise_relu_output_relu_neg" : {
+      "k" : 96,
+      "w" : 40,
+      "n" : 1,
+      "h" : 40
+    },
+    "block_13_expand_relu_output_relu_clip" : {
+      "k" : 432,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_4_depthwise_relu_output_relu_neg" : {
+      "k" : 144,
+      "w" : 20,
+      "n" : 1,
+      "h" : 20
+    },
+    "block_16_depthwise_relu_output" : {
+      "k" : 720,
+      "w" : 5,
+      "n" : 1,
+      "h" : 5
+    },
+    "block_7_depthwise_relu_output_relu_neg" : {
+      "k" : 288,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_6_depthwise_relu_output" : {
+      "k" : 144,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_12_depthwise_relu_output_relu" : {
+      "k" : 432,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_15_depthwise_relu_output" : {
+      "k" : 720,
+      "w" : 5,
+      "n" : 1,
+      "h" : 5
+    },
+    "block_10_depthwise_relu_output" : {
+      "k" : 288,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_13_expand_relu_output_relu" : {
+      "k" : 432,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_14_expand_relu_output_relu" : {
+      "k" : 720,
+      "w" : 5,
+      "n" : 1,
+      "h" : 5
+    },
+    "block_15_expand_relu_output_relu" : {
+      "k" : 720,
+      "w" : 5,
+      "n" : 1,
+      "h" : 5
+    },
+    "block_16_depthwise_relu_output_relu" : {
+      "k" : 720,
+      "w" : 5,
+      "n" : 1,
+      "h" : 5
+    },
+    "block_6_expand_relu_output" : {
+      "k" : 144,
+      "w" : 20,
+      "n" : 1,
+      "h" : 20
+    },
+    "block_16_expand_relu_output_relu_clip" : {
+      "k" : 720,
+      "w" : 5,
+      "n" : 1,
+      "h" : 5
+    },
+    "block_1_depthwise_relu_output_relu" : {
+      "k" : 96,
+      "w" : 40,
+      "n" : 1,
+      "h" : 40
+    },
+    "block_8_expand_relu_output" : {
+      "k" : 288,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_14_project_BN_output" : {
+      "k" : 120,
+      "w" : 5,
+      "n" : 1,
+      "h" : 5
+    },
+    "block_11_project_BN_output" : {
+      "k" : 72,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_5_expand_relu_output_relu_neg" : {
+      "k" : 144,
+      "w" : 20,
+      "n" : 1,
+      "h" : 20
+    },
+    "block_7_expand_relu_output_relu_clip" : {
+      "k" : 288,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_3_expand_relu_output_relu" : {
+      "k" : 144,
+      "w" : 40,
+      "n" : 1,
+      "h" : 40
+    },
+    "block_8_add_output" : {
+      "k" : 48,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_14_expand_relu_output" : {
+      "k" : 720,
+      "w" : 5,
+      "n" : 1,
+      "h" : 5
+    },
+    "block_1_project_BN_output" : {
+      "k" : 24,
+      "w" : 40,
+      "n" : 1,
+      "h" : 40
+    },
+    "expanded_conv_project_BN_output" : {
+      "k" : 16,
+      "w" : 80,
+      "n" : 1,
+      "h" : 80
+    },
+    "block_5_project_BN_output" : {
+      "k" : 24,
+      "w" : 20,
+      "n" : 1,
+      "h" : 20
+    },
+    "block_9_project_BN_output" : {
+      "k" : 48,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_12_expand_relu_output_relu_clip" : {
+      "k" : 432,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_2_depthwise_relu_output_relu_clip" : {
+      "k" : 144,
+      "w" : 40,
+      "n" : 1,
+      "h" : 40
+    },
+    "block_4_add_output" : {
+      "k" : 24,
+      "w" : 20,
+      "n" : 1,
+      "h" : 20
+    },
+    "block_7_expand_relu_output_relu" : {
+      "k" : 288,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_13_depthwise_relu_output_relu" : {
+      "k" : 432,
+      "w" : 5,
+      "n" : 1,
+      "h" : 5
+    },
+    "block_2_project_BN_output" : {
+      "k" : 24,
+      "w" : 40,
+      "n" : 1,
+      "h" : 40
+    },
+    "block_13_expand_relu_output" : {
+      "k" : 432,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "Conv1_relu_output" : {
+      "k" : 24,
+      "w" : 80,
+      "n" : 1,
+      "h" : 80
+    },
+    "block_3_depthwise_relu_output_relu_neg" : {
+      "k" : 144,
+      "w" : 20,
+      "n" : 1,
+      "h" : 20
+    },
+    "block_6_expand_relu_output_relu" : {
+      "k" : 144,
+      "w" : 20,
+      "n" : 1,
+      "h" : 20
+    },
+    "block_2_add_output" : {
+      "k" : 24,
+      "w" : 40,
+      "n" : 1,
+      "h" : 40
+    },
+    "block_3_expand_relu_output_relu_clip" : {
+      "k" : 144,
+      "w" : 40,
+      "n" : 1,
+      "h" : 40
+    },
+    "block_9_depthwise_relu_output_relu_clip" : {
+      "k" : 288,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_14_expand_relu_output_relu_neg" : {
+      "k" : 720,
+      "w" : 5,
+      "n" : 1,
+      "h" : 5
+    },
+    "block_6_depthwise_relu_output_relu_neg" : {
+      "k" : 144,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_3_expand_relu_output" : {
+      "k" : 144,
+      "w" : 40,
+      "n" : 1,
+      "h" : 40
+    },
+    "out_relu_output_relu_neg" : {
+      "k" : 1280,
+      "w" : 5,
+      "n" : 1,
+      "h" : 5
+    },
+    "block_9_depthwise_relu_output_relu_neg" : {
+      "k" : 288,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_11_depthwise_relu_output_relu_clip" : {
+      "k" : 432,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_5_expand_relu_output" : {
+      "k" : 144,
+      "w" : 20,
+      "n" : 1,
+      "h" : 20
+    },
+    "block_12_expand_relu_output" : {
+      "k" : 432,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_15_expand_relu_output_relu_clip" : {
+      "k" : 720,
+      "w" : 5,
+      "n" : 1,
+      "h" : 5
+    },
+    "block_9_depthwise_relu_output_relu" : {
+      "k" : 288,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_7_expand_relu_output" : {
+      "k" : 288,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_10_expand_relu_output_relu_neg" : {
+      "k" : 288,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "Conv1_relu_output_relu" : {
+      "k" : 24,
+      "w" : 80,
+      "n" : 1,
+      "h" : 80
+    },
+    "block_4_expand_relu_output_relu_neg" : {
+      "k" : 144,
+      "w" : 20,
+      "n" : 1,
+      "h" : 20
+    },
+    "block_10_expand_relu_output_relu" : {
+      "k" : 288,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_11_expand_relu_output" : {
+      "k" : 432,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_16_expand_relu_output_relu_neg" : {
+      "k" : 720,
+      "w" : 5,
+      "n" : 1,
+      "h" : 5
+    },
+    "block_10_depthwise_relu_output_relu" : {
+      "k" : 288,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_12_depthwise_relu_output_relu_clip" : {
+      "k" : 432,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "out_relu_output_relu_clip" : {
+      "k" : 1280,
+      "w" : 5,
+      "n" : 1,
+      "h" : 5
+    },
+    "block_11_expand_relu_output_relu_clip" : {
+      "k" : 432,
+      "w" : 10,
+      "n" : 1,
+      "h" : 10
+    },
+    "block_14_depthwise_relu_output_relu" : {
+      "k" : 720,
+      "w" : 5,
+      "n" : 1,
+      "h" : 5
+    },
+    "Conv1_relu_output_relu_clip" : {
+      "k" : 24,
+      "w" : 80,
+      "n" : 1,
+      "h" : 80
+    },
+    "block_1_depthwise_relu_output" : {
+      "k" : 96,
+      "w" : 40,
+      "n" : 1,
+      "h" : 40
+    },
+    "block_15_depthwise_relu_output_relu_clip" : {
+      "k" : 720,
+      "w" : 5,
+      "n" : 1,
+      "h" : 5
+    },
+    "MobilenetV2\/Predictions\/Reshape_1" : {
+      "k" : 1000,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "block_15_depthwise_relu_output_relu_neg" : {
+      "k" : 720,
+      "w" : 5,
+      "n" : 1,
+      "h" : 5
+    }
+  }
+}
